@@ -1,0 +1,18 @@
+---
+title: "Assignment 10B: NobelPrize.org"
+author: "Emily El Mouaquite"
+format: html
+editor: visual
+---
+
+## Approach
+
+For this assignment, I will perform an analysis/ investigation of Nobel Prize JSON data through the following four questions:
+
+1. How many laureates have won prizes in association with an organization that is headquartered in a different country than the one that they are from?
+
+2. Who are the top 10 laureates with the most awards?
+
+3. What gender is most represented in each prize category?
+
+4. Do Nobel Prize categories differ in how the prize money changes over time across decades?
