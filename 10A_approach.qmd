@@ -1,0 +1,14 @@
+---
+title: "Assignment 10B: Sentiment Analysis"
+author: "Emily El Mouaquite"
+format: html
+editor: visual
+---
+
+## Approach
+
+1.  Reproduce the sentiment analysis found in chapter 2 of *Text Mining with R*.
+
+2.  Extend the analysis using [this](https://www.kaggle.com/datasets/azminetoushikwasi/happiness-books-quotes-reviews-sentiments) dataset containing quotes from bestselling books about happiness. 
+
+3. Utilize the Syuzhet lexicon for further analysis. 
